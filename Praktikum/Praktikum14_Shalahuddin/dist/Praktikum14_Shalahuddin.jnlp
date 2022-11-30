@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Praktikum14_Shalahuddin.jnlp">
+  <information>
+    <title>Praktikum14_Shalahuddin</title>
+    <vendor>Praktikan</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Praktikum14_Shalahuddin.jar" size="4367" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Praktikum14_Shalahuddin" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="praktikum14_shalahuddin.Praktikum14_Shalahuddin"  name="Praktikum14_Shalahuddin" />
+  <update check="always"/>
+</jnlp>
